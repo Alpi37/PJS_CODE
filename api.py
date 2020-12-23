@@ -17,7 +17,7 @@ except Exception as e:
 
 app = Flask(__name__)
 
-#Connection to MongoDB via URI und DB-String
+
 #app.config["MONGO-URI"] = "URI"
 #mongo = PyMongo(app)
 #client = pymongo.MongoClient(URI)
